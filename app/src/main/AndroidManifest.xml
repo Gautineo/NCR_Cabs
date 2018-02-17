@@ -20,10 +20,6 @@
             android:name=".Dashboard"
             android:label="@string/title_activity_dashboard"
             android:theme="@style/AppTheme.NoActionBar" />
-        <activity
-            android:name=".UnscheduledRequest"
-            android:label="@string/title_activity_unscheduled_request"
-            android:theme="@style/AppTheme.NoActionBar"></activity>
     </application>
 
 </manifest>
