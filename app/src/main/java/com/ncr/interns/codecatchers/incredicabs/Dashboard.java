@@ -111,7 +111,7 @@ public class Dashboard extends AppCompatActivity
     }
 
     public void reqUscheduledCab(View view) {
-//        Intent intent = new Intent(Dashboard.this, UnscheduledRequest.class);
-//        startActivity(intent);
+        Intent intent = new Intent(Dashboard.this, MainRequestActivity.class);
+        startActivity(intent);
     }
 }
