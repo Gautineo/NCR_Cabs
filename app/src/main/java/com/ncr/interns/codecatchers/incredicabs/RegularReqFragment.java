@@ -22,7 +22,7 @@ public class RegularReqFragment extends android.support.v4.app.Fragment {
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
                              Bundle savedInstanceState) {
-        View rootView = inflater.inflate(R.layout.content_request, container,false);
+        View rootView = inflater.inflate(R.layout.regular_req, container,false);
         return rootView;
     }
 
